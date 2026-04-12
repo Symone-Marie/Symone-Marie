@@ -5,8 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 - **[Programmatic and Manual Vulnerability Remediations (PowerShell)](https://github.com/Symone-Marie/programmatic-vulnerability-remediations)**
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunts]
-- (https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations)**
+
 <hr/>
 
 ## 🤳 Connect With Me
