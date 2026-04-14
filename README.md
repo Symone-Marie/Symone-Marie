@@ -5,6 +5,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Implementation Program](https://github.com/Symone-Marie/Vulnerability-Management-Program-Implementation)**
 ## 🚨 [Threat Hunts](https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations)
 - **[Emberforge: Source Leak](https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/EmberForge_README.md)**
+- **[Threat Hunt Scenario: Tor](https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/threathunting-scenario-symone_README.md)**
+
+
+
+https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/threathunting-scenario-symone_README.md
 
 <hr/>
 
