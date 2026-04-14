@@ -7,10 +7,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Emberforge: Source Leak](https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/EmberForge_README.md)**
 - **[Threat Hunt Scenario: Tor](https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/threathunting-scenario-symone_README.md)**
 
-
-
-https://github.com/Symone-Marie/Threat-Hunting-and-Security-Operations/blob/main/threathunting-scenario-symone_README.md
-
 <hr/>
 
 ## 🤳 Connect With Me
