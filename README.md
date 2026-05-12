@@ -13,5 +13,4 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 [<img align="left" alt="Symone-Marie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/symone-mariepriester)
-&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="Symone-Marie | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubpages.svg" />](https://symone-marie.github.io)
+[<img align="left" alt="Symone-Marie | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://symone-marie.github.io)
